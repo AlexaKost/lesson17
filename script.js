@@ -30,5 +30,5 @@ function declensionNum(num, words) {
 document.write('<br \/> Сегодня: ' + daysweek[day]);
 document.write('<br \/> Текущее время: ' + date.toLocaleTimeString('ru')); 
 document.write('<br \/> До нового года осталось: ' + days + ' ' + number);
- 
+
 
